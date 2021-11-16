@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="136efaf2-fffa-41c8-bf74-192c65c62b7c" name="Changes" comment="init2">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_1/8. Вторая цифра справа.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week_1/8. Вторая цифра справа.py" afterDir="false" />
-    </list>
+    <list default="true" id="136efaf2-fffa-41c8-bf74-192c65c62b7c" name="Changes" comment="init2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -186,6 +183,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
