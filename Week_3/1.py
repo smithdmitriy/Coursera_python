@@ -1,4 +1,4 @@
-#pylint:disable=E0001
+# pylint:disable=E0001
 # Даны длины сторон треугольника. Вычислите площадь треугольника.
 # 
 # Формат ввода
@@ -44,11 +44,10 @@
 
 
 a, b, c = float(input()), float(input()), float(input())
-p=(a+b+c)/2
-#print('{0:.06f}'.format(p))
-s=(p*(p-a)*(p-b)*(p-c))**0.5
-if s%1 > 0:
-	print('{0:.06f}'.format(s))
+p = (a + b + c) / 2
+# print('{0:.06f}'.format(p))
+s = (p * (p - a) * (p - b) * (p - c)) ** 0.5
+if s % 1 > 0:
+    print('{0:.06f}'.format(s))
 else:
-	print('{0:.0f}'.format(s))
-
+    print('{0:.0f}'.format(s))
