@@ -18,6 +18,4 @@
 # 17
 
 n = int(input())
-print(n//100)
-print(n//10%10)
-print(n%10)
+print(n // 100 + n // 10 % 10 + n % 10)
